@@ -1,6 +1,6 @@
 # All Restaurants in Naples-Marco Island (Metro), Florida, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `274991` |
 | Location | Naples-Marco Island, FL |
 | Category | Restaurants |
-| Full dataset size | 326 records |
-| Free sample size | 32 records (9.82%) |
-| Last export | 2026-04-14T17:28:03.782057+00:00 |
+| Full dataset size | 193 records |
+| Free sample size | 19 records (9.84%) |
+| Last export | 2026-04-21T19:09:57.665836+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-naples-marco-island-metro-florida-us-sample-274991/releases/download/sample-latest/beamstation_274991_restaurants-us-naplesmarcoislandfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
