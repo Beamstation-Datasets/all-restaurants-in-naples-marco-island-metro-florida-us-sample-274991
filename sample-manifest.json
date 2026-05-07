@@ -1,12 +1,12 @@
 {
-  "export_job_id": "db8300e1-3f13-4afa-9205-24b67237a056",
+  "export_job_id": "43bfc06a-0cea-4c02-a82d-32adc11f3cc9",
   "id_short": 274991,
-  "published_at": "2026-04-29T07:18:42Z",
+  "published_at": "2026-05-07T19:17:13Z",
   "repo_name": "all-restaurants-in-naples-marco-island-metro-florida-us-sample-274991",
   "sample_asset_name": "beamstation_274991_restaurants-us-naplesmarcoislandfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/274991/beamstation_274991_restaurants-us-naplesmarcoislandfl_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "ac5940f8e6a87682391a29e3df24eb8ee1f01ad8ad1ac088e4a5c47ef31d30f8",
-  "sample_size_bytes": 120121,
-  "total_records": 289
+  "sample_records": 34,
+  "sample_sha256": "05764eeae2e0be5e4e1296b6e291e4e36cc569ee988a7197ba82c9c688e3eed4",
+  "sample_size_bytes": 139013,
+  "total_records": 340
 }
